@@ -30,6 +30,11 @@ padding-top: 200px;
 
 
 
+
+.ulul{
+  list-style: none;
+}
+
 h1 {
 	font-size: 36px;
 }
